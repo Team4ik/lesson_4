@@ -1,0 +1,49 @@
+div {
+	color: red;
+}
+
+.text {
+	color: yellow;
+}
+
+.category {
+	color: green;
+}
+
+.text.answer {
+	color: blueviolet;
+}
+
+.abzac,
+.myths {
+	color: blue;
+}
+
+p {
+	color: green
+}
+
+a {
+	color: orange;
+}
+
+h1 {
+	color: black;
+}
+
+h2 {
+	color: yellowgreen;
+}
+
+h3 {
+	color: aquamarine;
+}
+
+span {
+	color: gray;
+}
+
+.answer {
+
+	color: beige;
+}

@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+@font-face {
+	font-family: "Larrseit";
+	src: url("../fonts/Larsseit.woff2") format("woff2"), url("../fonts/Larsseit.woff") format("woff");
+	font-display: swap;
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Larrseit";
+	src: url("../fonts/Larsseit-Medium.woff2") format("woff2"), url("../fonts/Larsseit-Medium.woff") format("woff");
+	font-display: swap;
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Larrseit";
+	src: url("../fonts/Larsseit-Bold.woff2") format("woff2"), url("../fonts/Larsseit-Bold.woff") format("woff");
+	font-display: swap;
+	font-weight: 900;
+	font-style: normal;
+}
+
+.conclusions {
+	font-family: 'Bungee+Spice';
+	font-weight: 900;
+}
+
+.answer {
+	font-family: "Larsseit";
+	font-weight: 700;
+}
+
+a {
+	font-family: "Larsseit";
+	font-weight: 900;
+}
+
+.answer.p {
+	font-family: "Larsseit", serif;
+	font-weight: 400;
+}
+
+strong {
+	font-family: "Lato", sens-serif;
+	font-weight: 400;
+	font-style: italic;
+}
+
+li {
+	font-family: "Lato", sens-serif;
+	font-weight: 700;
+	font-style: italic;
+}
+
+.myths,
+.terms {
+	font-family: "Lato", sens-serif;
+	font-weight: 900;
+	font-style: italic;
+
+}
